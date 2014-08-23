@@ -3,6 +3,12 @@
 *.lo
 *.o
 *.obj
+Debug\
+ipch\
+*.sdf
+*.sln
+*.suo
+.gitignore
 # Compiled Dynamic libraries
 *.so
 *.dylib
